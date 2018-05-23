@@ -1,0 +1,12 @@
+wget -O profile.json "https://www.cityvizor.cz/exports/v1/profiles/5971ca164e7b8d5ea27f0488"
+wget -O item_names.json "https://www.cityvizor.cz/exports/v1/codelists/item-names"
+wget -O paragraph_names.json "https://www.cityvizor.cz/exports/v1/codelists/paragraph-names"
+wget -O budgets.json "https://www.cityvizor.cz/exports/v1/profiles/5971ca164e7b8d5ea27f0488/budgets"
+wget -O 2018/budgets.json "https://www.cityvizor.cz/exports/v1/profiles/5971ca164e7b8d5ea27f0488/budgets/2018"
+wget -O 2018/events.json "https://www.cityvizor.cz/exports/v1/profiles/5971ca164e7b8d5ea27f0488/events/2018"
+wget -O 2018/payments.json "https://www.cityvizor.cz/exports/v1/profiles/5971ca164e7b8d5ea27f0488/payments/2018"
+wget -O 2017/budgets.json "https://www.cityvizor.cz/exports/v1/profiles/5971ca164e7b8d5ea27f0488/budgets/2017"
+wget -O 2017/events.json "https://www.cityvizor.cz/exports/v1/profiles/5971ca164e7b8d5ea27f0488/events/2017"
+wget -O 2017/payments.json "https://www.cityvizor.cz/exports/v1/profiles/5971ca164e7b8d5ea27f0488/payments/2017"
+git add .
+git commit -am "Fetched"
