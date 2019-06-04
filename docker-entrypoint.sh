@@ -12,7 +12,7 @@ echo "Fetching from praha7.cz..." &&
 ./fetcher.sh &&
 echo "Pushing to github.com..." &&
 cd /source &&
-git add *.json &&
+git add -A &&
 git diff --quiet &&
 git diff --staged --quiet ||
 (git commit -am 'Auto imported new data' && git push $REPO source)
