@@ -33,6 +33,6 @@
 
 	<cityvizor-app></cityvizor-app>
 
-<script src="runtime-es2015.cd860ab69cbd10914677.js" type="module"></script><script src="polyfills-es2015.d9963b74d0d08b15dc6f.js" type="module"></script><script src="runtime-es5.dd7ada5df9521cbac678.js" nomodule defer></script><script src="polyfills-es5.5aff3599dd58f0b6048c.js" nomodule defer></script><script src="main-es2015.3fb0c63814d30471755e.js" type="module"></script><script src="main-es5.1ee0e1d61fc1d88d543e.js" nomodule defer></script></body>
+<script src="runtime-es2015.cd860ab69cbd10914677.js" type="module"></script><script src="polyfills-es2015.d9963b74d0d08b15dc6f.js" type="module"></script><script src="runtime-es5.dd7ada5df9521cbac678.js" nomodule defer></script><script src="polyfills-es5.5aff3599dd58f0b6048c.js" nomodule defer></script><script src="main-es2015.b3125b3adeac19d78ef1.js" type="module"></script><script src="main-es5.28f8ad912b7ef568bfb3.js" nomodule defer></script></body>
 
 </html>
